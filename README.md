@@ -13,7 +13,7 @@
 - Unity
 - Blender
 - GitHub
-- VR関連SDK
+- SteamVR
 
 ### 担当したこと
 
