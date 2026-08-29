@@ -14,6 +14,7 @@
 - Blender
 - GitHub
 - SteamVR
+- HTC VIVE Pro
 
 ### 担当したこと
 
